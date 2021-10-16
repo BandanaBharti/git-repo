@@ -1,2 +1,4 @@
 This is a sample file
 we are learning git 
+first line
+second line
